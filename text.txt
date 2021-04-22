@@ -1,4 +1,10 @@
 toto
 tata
+<<<<<<< HEAD
 tati
 tito
+=======
+tati 
+tito
+version modifheader2
+>>>>>>> modifheader2
